@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OZs8MVJolg5r/RT1QBMaYXNEF1q/S8gt6WU/sypoOsY=",
+  "Source": "Stories.RestAPIGatewayService",
+  "BasePath": "_content/Stories.RestAPIGatewayService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
